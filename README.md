@@ -1,4 +1,4 @@
-# JiebaData.jl 属于 Jieba.jl 的数据包
+# 属于 Jieba.jl 的数据包
 
 Linux : [![Build Status](https://travis-ci.org/qinwf/jiebaR.svg?branch=master)](https://travis-ci.org/qinwf/jiebaR)　Mac : [![Build Status](https://travis-ci.org/qinwf/Jieba.jl.svg?branch=osx)](https://travis-ci.org/qinwf/Jieba.jl)　Windows : [![Build status](https://ci.appveyor.com/api/projects/status/4bqwdhxp91a18k4t/branch/master?svg=true)](https://ci.appveyor.com/project/qinwf/jieba-jl/branch/master)
 
